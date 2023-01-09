@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Suraj Dalvi...❤️</h1>
+<h1 align="center"> Hi 👋, I'm Suraj Dalvi.🤓</h1>
 <h3 align="center">| Second Year Student | PCCOE Pune Campus |  CSE | Coding Enthusiast | Startup Enthusiast | Web Dev |
 </h3>
 
@@ -6,13 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- ### 📫 How to reach me: **dalvisuraj256@gmail.com**
-
 - ### 🕸️ My Personal Website: **https://surajdalvi.000webhostapp.com**
+
+- ### All My Repos :: 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
 
 - ### Coding Talks....💐
 
-- ### All My Repos :: 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
+-               ### TALK IS JUST CHEAP, SHOW ME THE CODE...!
+-               ### AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO...! 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -53,8 +54,8 @@
 #### Top Repositories
 
 
-<a href="https://github.com/Suraj-Encoding/Suraj-Encoding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Encoding&theme=buefy" />
+<a href="https://github.com/Suraj-Encoding/OOPS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OOPS&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/Suraj-Personal-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Personal-Website&theme=buefy" />
