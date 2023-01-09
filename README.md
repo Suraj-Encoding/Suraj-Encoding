@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Suraj Dalvi..✌️</h1>
+<h1 align="center"> Hi 👋, I'm Suraj Dalvi..💐</h1>
 <h3 align="center">| Second Year Student | PCCOE Pune Campus |  CSE | Coding Enthusiast | Startup Enthusiast | Web Dev |
 </h3>
 
@@ -6,14 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- ### 🕸️ My Personal Website : 👉  **https://surajdalvi.000webhostapp.com**
+- ### 🕸️ My Personal Website :  👉  **https://surajdalvi.000webhostapp.com** 👈
 
 - ### 📚 All My Repos : 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
 
-- ### Coding Talks....💐
+- ### 🗣️ Coding Talks....💐
 
 -           ### TALK IS JUST CHEAP, SHOW ME THE CODE...!
 -           ### AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO...! 
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +24,7 @@
 <a href="https://www.instagram.com/accounts/login/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Suraj-Encoding" height="30" width="40" /></a>
 <a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Suraj-Encoding" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -57,10 +59,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Personal-Website&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/LRDC-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LRDC-Website&repo=OOPS&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=LRDC-Website&theme=buefy" />
 </a>
 
-### ✍️ Random Dev Quote
+### ✨ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
