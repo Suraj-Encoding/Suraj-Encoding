@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Suraj Dalvi...💐</h1>
+<h1 align="center"> Hi 👋, I'm Suraj Dalvi...❤️</h1>
 <h3 align="center">| Second Year Student | PCCOE Pune Campus |  CSE | Coding Enthusiast | Startup Enthusiast | Web Dev |
 </h3>
 
@@ -47,7 +47,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suraj-Encoding&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/Suraj-Encoding"><img src="https://activity-graph.herokuapp.com/graph?username=Suraj-Encoding&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Suraj-Encoding"><img src="https://activity-graph.herokuapp.com/graph?username=Suraj-Encoding&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/Suraj-Encoding/Suraj-Encoding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Encoding&theme=buefy" />
+</a>
+<a href="https://github.com/Suraj-Encoding/Suraj-Personal-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Personal-Website&theme=buefy" />
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
