@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Suraj Dalvi..💐</h1>
+<h1 align="center"> Suraj Dalvi Here...✌️</h1>
 <h3 align="center">| Second Year Student | PCCOE Pune Campus |  CSE | Coding Enthusiast | Startup Enthusiast | Web Dev |
 </h3>
 
