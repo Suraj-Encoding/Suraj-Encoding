@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- ### 🕸️ My Personal Website :  👉  **https://surajdalvi.000webhostapp.com** 👈
+- ### 🕸️ My Personal Website :  👉  **https://dalvi-suraj.web.app/** 👈
 
 - ### 📚 All My Repos : 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
 
