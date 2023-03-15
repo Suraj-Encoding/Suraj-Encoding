@@ -62,7 +62,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=LRDC-Website&theme=buefy" />
 </a>
 
-### ✨ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
