@@ -5,6 +5,7 @@
 <img align="center" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=http://localhost:3000/&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
 - ### 🕸️ My Personal Website :  👉  **https://dalvi-suraj.web.app/** 👈
 
