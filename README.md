@@ -1,5 +1,5 @@
-<h1 align="center"> 🕸️ --- Suraj Dalvi ---  🕸️ </h1>
-<h3 align="center">| Second Year Student | PCCOE Pune Campus |  CSE | Coding Enthusiast | Startup Enthusiast | Web Dev |
+<h1 align="center"> ⚙️ --- Suraj Dalvi ---  ⚙️ </h1>
+<h3 align="center">| Third Year Student | PCCOE Pune Campus |  CSE | Coding Enthusiast | Startup Enthusiast | Web Dev |
 </h3>
 
 <img align="center" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
