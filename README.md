@@ -1,5 +1,5 @@
 <h1 align="center"> ⚙️ --- Suraj Dalvi ---  ⚙️ </h1>
-<h3 align="center">🌺 Third Year Student | PCCOE Pune Campus | CSE | Coding Enthusiast | Startup Enthusiast | Web Dev 🌺
+<h3 align="center">🌺Third Year Student | PCCOE Pune Campus | CSE | Coding Enthusiast | Startup Enthusiast | Web Dev🌺
 </h3>
 
 <img align="center" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
@@ -72,16 +72,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Portfolio&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=React-Todo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Angular-Todo&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Personal-Portfolio&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=TaskBit&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=React-Todo&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Angular-Todo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=TaskBit&theme=buefy" />
 </a>
 
 
