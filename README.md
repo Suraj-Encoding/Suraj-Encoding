@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- ### 🕸️ My Personal Website :  👉  **https://dalvi-suraj.web.app/** 👈
+- ### 🕸️ My Personal Website :  👉  ** https://suraj-dalvi.github.io/ ** 👈
 
 - ### 📚 All My Repos : 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
 
@@ -82,6 +82,12 @@
 </a>
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=TaskBit&theme=buefy" />
+</a>
+<a href="https://github.com/Suraj-Encoding/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=DSA&theme=buefy" />
+</a>
+<a href="https://github.com/Suraj-Encoding/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OPPS&theme=buefy" />
 </a>
 
 
