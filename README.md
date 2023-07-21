@@ -1,4 +1,4 @@
-<h1 align="center"> 🌸 --- Suraj Dalvi --- 🌼  </h1>
+<h1 align="center"> ⚙️ --- Suraj Dalvi --- ⚙️  </h1>
 <h3 align="center">🌺 Third Year Student | PCCOE Pune | CSE | Coding Enthusiast | Startup Enthusiast | Web Dev 🌺
 </h3>
 
