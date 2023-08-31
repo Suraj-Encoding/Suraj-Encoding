@@ -6,16 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- ### 🕸️ My Personal Portfolio Website :  👉  **https://surajdalvi.me** 👈
+- ### 🕸️ My Personal Portfolio Website : 👉 **https://surajdalvi.me** 👈
 
 - ### 📚 All My Repos : 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
 
 - ### 🗣️ Coding Talks....💐
 
 -           ### TALK IS JUST CHEAP, SHOW ME THE CODE...!
--           ### AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO...! 
-
-
+-           ### AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO...!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +27,7 @@
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -53,6 +51,7 @@
 </p>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -83,5 +82,3 @@
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OOPS&theme=buefy" />
 </a>
-
-
