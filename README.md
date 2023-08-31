@@ -2,9 +2,13 @@
 <h3 align="center">🌺 Third Year Student | PCCOE Pune | CSE | Coding Enthusiast | Startup Enthusiast | Web Dev 🌺
 </h3>
 
-<img align="center" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<p align="left">
+<img align="center" alt="Code" width="380" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="Coding" width="380" height="290" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
+
 
 - ### 🕸️ My Personal Portfolio Website : 👉 **https://surajdalvi.me** 👈
 
@@ -82,3 +86,6 @@
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OOPS&theme=buefy" />
 </a>
+
+
+
