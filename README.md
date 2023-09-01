@@ -3,7 +3,7 @@
 </h3>
 
 <p align="left">
-<img align="center" alt="Code" width="350" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="center" alt="Code" width="320" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <img align="right" alt="Coding" width="380" height="290" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
