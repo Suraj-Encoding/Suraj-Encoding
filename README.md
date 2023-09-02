@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-
 - ### 🕸️ My Personal Portfolio Website : 👉 **https://surajdalvi.me** 👈
 
 - ### 📚 All My Repos : 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
@@ -56,9 +55,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
+![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
 
 #### Top Repositories
 
@@ -86,6 +85,3 @@
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OOPS&theme=buefy" />
 </a>
-
-
-
