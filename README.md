@@ -1,8 +1,8 @@
-[!["Suraj Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=600&lines=Hello!+I'm+Suraj+Dalvi;Welcome+To+The+World+Of+Suraj-Encoding)](https://git.io/typing-svg)
+[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=600&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+Suraj-Encoding+🌸)](https://git.io/typing-svg)
 <hr>
 
-<h3 align="center">🌺 Third Year Student | PCCOE Pune | CSE | Coding Enthusiast | Startup Enthusiast | Web Dev 🌺
-</h3>
+[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Web+Dev+🕸️;✌️)](https://git.io/typing-svg)
+
 
 <p align="left">
 <img align="center" alt="Code" width="320" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
