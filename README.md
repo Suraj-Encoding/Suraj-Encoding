@@ -35,7 +35,7 @@
 ```
 
 <!-- Snake Eating -->
-![Github Snake](https://github.com/Suraj-Encoding/Suraj-Encoding/blob/output/github-contribution-grid-snake.svg)
+![Github Snake](https://github.com/Suraj-Encoding/Third-Year/blob/output/github-contribution-grid-snake.gif)
 
 <hr>
 
