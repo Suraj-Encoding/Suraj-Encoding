@@ -87,5 +87,12 @@
 </a>
 
 <br/>
+<br/>
+<br/>
 
-> 🟢 Everything and anything is a bit, when you put your consciousness in it. 🔵
+
+
+```javascript 
+              🌼 🌺 🌸
+Everything and anything is a bit, when you put your consciousness in it.
+```
