@@ -1,11 +1,10 @@
 <!-- Suraj-Encoding Readme File -->
 
 <!-- About Me -->
-[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=600&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://git.io/typing-svg)
+[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://git.io/typing-svg)
 <hr>
 
-[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️Full+Stack+Web+Dev+🕸️;✌️)](https://git.io/typing-svg)
-<hr>
+[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Full+Stack+Web+Dev+🕸️)](https://git.io/typing-svg)
 
 
 <!-- Coding GIF -->
@@ -51,8 +50,7 @@
 <hr>
 
 <!-- Technical Skills -->
-<h3 align="center"> Technical Skills </h3>
-<hr>
+<h3 align="center"> Technical Stack </h3>
 <table align="center">
 <tr>
 <td>Languages</td>
@@ -162,5 +160,3 @@
 ```Javascript
 🌼 🌺 🌸  Everything and anything is a bit, when you put your consciousness in it  🌼 🌺 🌸
 ```
-<hr>
-
