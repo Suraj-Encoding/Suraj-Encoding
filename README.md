@@ -46,7 +46,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Suraj Dalvi" height="30" width="30" /></a>
 <a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png"  alt="Suraj-Encoding" height="30" width="30" /></a>
-<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center"
+<a href="https://www.instagram.com/" target="blank"><img align="center"
 src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Suraj-Encoding" height="30" width="30" /></a>
 <a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Suraj-Encoding" height="30" width="40" /></a>
 </p>
@@ -58,7 +58,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 <table align="center">
 <tr>
 <td>Language</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </a> 
 </td>
@@ -66,7 +66,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>Development</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
   </a>
 </td>
@@ -74,7 +74,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>CSS Framework</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
   </a>
  </td>
@@ -82,7 +82,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>Frontend Framework</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=react,angular" />
   </a>
  </td>
@@ -90,7 +90,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>Backend Framework</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
    </a>
 </td>
@@ -98,7 +98,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>Database</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
  </td>
@@ -106,7 +106,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>Hosting</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,aws" />
   </a>
 </td>
@@ -114,7 +114,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 
 <tr>
 <td>Tools</td>
-<td> <a href="https://skillicons.dev">
+<td> <a>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,replit,stackoverflow" />
   </a>
 </td>
@@ -124,7 +124,7 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 <hr>
 
 <!-- My Github Stats -->
-### ❂ **GitHub Stats** ❂
+### 🕸️ **GitHub Stats** 🕸️
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
