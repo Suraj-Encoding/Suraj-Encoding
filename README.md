@@ -1,4 +1,6 @@
-<h1 align="center">  ⚙️ --- Suraj Dalvi --- ⚙️  </h1>
+[!["Suraj Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=600&lines=Hello!+I'm+Suraj+Dalvi;Welcome+To+The+World+Of+Suraj-Encoding)](https://git.io/typing-svg)
+<hr>
+
 <h3 align="center">🌺 Third Year Student | PCCOE Pune | CSE | Coding Enthusiast | Startup Enthusiast | Web Dev 🌺
 </h3>
 
@@ -7,7 +9,7 @@
 <img align="right" alt="Coding" width="380" height="290" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=5108bf&style=flat" alt="Suraj-Encoding" /> </p>
 
 - ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
 
@@ -59,12 +61,18 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
+</br>
+</br>
+</br>
 
 # 📊 GitHub Stats:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
+</br>
+</br>
+</br>
 
 #### Top Repositories
 
