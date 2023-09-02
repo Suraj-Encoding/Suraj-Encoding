@@ -85,3 +85,7 @@
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OOPS&theme=buefy" />
 </a>
+
+<br/>
+
+> 🟢 Everything and anything is a bit, when you put your consciousness in it. 🔵
