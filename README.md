@@ -35,7 +35,7 @@
 ```
 
 <!-- Snake Eating -->
-![Snake Eating](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg "Snake Eating My Github Contributions")
+![Github Snake](https://github.com/Suraj-Encoding/Suraj-Encoding/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
