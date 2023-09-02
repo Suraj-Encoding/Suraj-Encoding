@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- #### **🕸️ My Personal Portfolio Website :** [🌸 Portfolio 🌼](https://surajdalvi.me "Visit My Portfolio")
+- ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
 
-- #### **📚 All My Repos :** [🌸 MyRepo 🌼]( https://github.com/Suraj-Encoding?tab=repositories "My Repos")
+- ### **📚 All My Repos :** 🌸 [ MyRepo ]( https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
 
-- #### **🗣️ Coding Talks....💐**
+- ### **🗣️ Coding Talks....💐**
 ```Javascript
    🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
 ```
