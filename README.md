@@ -33,8 +33,12 @@
  🌼 AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO 🌼
 ```
 
-<!-- Snake Eating -->
-![Github Snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg "Snake Eating My Contributions")
+<!-- Snake Eating My Contributions -->
+<div align="center">
+  <img src="https://github.com/Suraj-Encoding/Suraj-Encoding/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Github Snake"/>
+   <img src="https://github.com/Suraj-Encoding/Suraj-Encoding/blob/output/github-snake.svg#gh-light-mode-only" alt="Github Snake"/>
+</div>
+
 <hr>
 
 <!-- My Social Media -->
