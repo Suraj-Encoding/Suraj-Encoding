@@ -2,11 +2,10 @@
 
 <!-- About Me -->
 [!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://git.io/typing-svg)
-
 <hr>
 
 [!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Full+Stack+Web+Dev+🕸️)](https://git.io/typing-svg)
-
+<hr>
 
 <!-- Coding GIF -->
 <p align="left">
@@ -35,9 +34,8 @@
 ```
 
 <!-- Snake Eating -->
-![Github Snake](https://github.com/Suraj-Encoding/Third-Year/blob/output/github-contribution-grid-snake.gif)
-
-<!-- <hr> -->
+![Github Snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg "Snake Eating My Contributions")
+<hr>
 
 <!-- My Social Media -->
 <h3 align="center">Connect with me</h3>
