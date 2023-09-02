@@ -36,7 +36,7 @@
 <!-- Snake Eating -->
 ![Github Snake](https://github.com/Suraj-Encoding/Third-Year/blob/output/github-contribution-grid-snake.gif)
 
-<hr>
+<!-- <hr> -->
 
 <!-- My Social Media -->
 <h3 align="center">Connect with me</h3>
