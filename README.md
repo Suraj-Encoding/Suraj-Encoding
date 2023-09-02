@@ -11,16 +11,19 @@
 
 - ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
 
-- ### **📚 All My Repos :** 🌸 [ MyRepo ]( https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
+- ### **📚 All My Repos :** 🌸 [ MyRepo ](https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
 
 - ### **🗣️ Coding Talks....💐**
+
 ```Javascript
    🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
 ```
+
 ```Javascript
  🌼 AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO 🌼
 ```
 
+![Snake Eating](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg "Snake Eating My Commits")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,8 +96,6 @@
 <br/>
 <br/>
 <br/>
-
-
 
 ```Javascript
 🌼 🌺 🌸  Everything and anything is a bit, when you put your consciousness in it  🌼 🌺 🌸
