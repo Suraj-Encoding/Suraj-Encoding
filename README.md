@@ -9,14 +9,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-Encoding" /> </p>
 
-- ### 🕸️ My Personal Portfolio Website : 👉 **https://surajdalvi.me** 👈
+- #### **🕸️ My Personal Portfolio Website :** [🌸 Portfolio 🌼](https://surajdalvi.me "Visit My Portfolio")
 
-- ### 📚 All My Repos : 👉 https://github.com/Suraj-Encoding?tab=repositories 👈
+- #### **📚 All My Repos :** [🌸 MyRepo 🌼]( https://github.com/Suraj-Encoding?tab=repositories "My Repos")
 
-- ### 🗣️ Coding Talks....💐
+- #### **🗣️ Coding Talks....💐**
+```Javascript
+   🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
+```
+```Javascript
+ 🌼 AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO 🌼
+```
 
--           ### TALK IS JUST CHEAP, SHOW ME THE CODE...!
--           ### AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO...!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,5 +97,5 @@
 
 
 ```Javascript
-🌼🌺🌸  Everything and anything is a bit, when you put your consciousness in it.  🌼🌺🌸
+🌼 🌺 🌸  Everything and anything is a bit, when you put your consciousness in it  🌼 🌺 🌸
 ```
