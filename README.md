@@ -92,7 +92,6 @@
 
 
 
-```javascript 
-              🌼 🌺 🌸
-Everything and anything is a bit, when you put your consciousness in it.
+```Javascript
+🌼🌺🌸  Everything and anything is a bit, when you put your consciousness in it.  🌼🌺🌸
 ```
