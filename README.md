@@ -31,9 +31,12 @@
 
 <!-- Strong Lines -->
 - ### **🗣️ Coding Talks....💐**
-     ###  🌸 **`TALK IS JUST CHEAP, SHOW ME THE CODE`** 🌸
-     ###  🌼 **`AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO`** 🌼
-
+```Javascript
+   🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
+```
+```Javascript
+ 🌼 AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO 🌼
+```
 
 <!-- Snake Eating My Contributions -->
 <div align="center">
@@ -167,4 +170,6 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- My Own Quote -->
-#### 🌼 🌺 🌸 **`Everything and anything is a bit, when you put your consciousness in it`** 🌼 🌺 🌸
+```Javascript 
+🌼 🌺 🌸 Everything and anything is a bit, when you put your consciousness in it 🌼 🌺 🌸
+```
