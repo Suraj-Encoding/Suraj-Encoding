@@ -19,7 +19,8 @@
 </p>
 
 <!-- Page Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=5108bf&style=flat" alt="Suraj-Encoding"  width="100px" height="20px" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=5108bf&style=flat" alt="Suraj-Encoding" width=200px
+   height=100px /> </p>
 
 <hr>
 
@@ -146,19 +147,20 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Encoding&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Android&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Personal-Portfolio&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Angular-Todo&theme=buefy" />
 </a>
-<a href="https://github.com/Suraj-Encoding/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Personal-Portfolio&theme=buefy" />
-</a>
+
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=React-Todo&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=TaskBit&theme=buefy" />
+</a>
+<a href="https://github.com/Suraj-Encoding/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Android&theme=buefy" />
 </a>
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=DSA&theme=buefy" />
