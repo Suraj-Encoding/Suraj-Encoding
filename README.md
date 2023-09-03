@@ -19,13 +19,13 @@
 <hr>
 
 <!-- Important Links -->
-- ### **🕸️ `My Personal Portfolio Website` :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
+- ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
 
-- ### **📚 `All My Repos` :** 🌸 [ MyRepo ](https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
+- ### **📚 All My Repos :** 🌸 [ MyRepo ](https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
 
 
 <!-- Strong Lines -->
-- ### **🗣️ `Coding Talks`....💐**
+- ### **🗣️ Coding Talks....💐**
 ```Javascript
    🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
 ```
@@ -124,9 +124,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- My Github Stats -->
-### 🕸️ **`GitHub Stats`** 🕸️
-<hr>
-
+### 🕸️ **GitHub Stats** 🕸️
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
@@ -134,9 +132,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- My Top Repos -->
-### 🕸️ **`Top Repositories`** 🕸️
-<hr>
-
+### 🕸️ **Top Repositories** 🕸️
 <a href="https://github.com/Suraj-Encoding/Suraj-Encoding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Encoding&theme=buefy" />
 </a>
