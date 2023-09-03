@@ -1,7 +1,7 @@
 <!-- Suraj-Encoding Readme File -->
 
 <!-- Me -->
-[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=300&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://github.com/Suraj-Encoding)
+[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=200&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://github.com/Suraj-Encoding)
 ---
 
 <!-- Master Head -->
@@ -9,7 +9,7 @@
 <hr>
 
 <!-- About Me -->
-[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=400&center=true&vCenter=true&width=800&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Full+Stack+Web+Dev+🕸️)](https://github.com/Suraj-Encoding)
+[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=300&center=true&vCenter=true&width=800&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Full+Stack+Web+Dev+🕸️;🧐)](https://github.com/Suraj-Encoding)
 ---
 
 <!-- Coding GIF -->
