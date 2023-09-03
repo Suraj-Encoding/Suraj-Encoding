@@ -19,7 +19,7 @@
 </p>
 
 <!-- Page Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=5108bf&style=flat" alt="Suraj-Encoding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=5108bf&style=flat" alt="Suraj-Encoding"  width="100px" height="20px" /> </p>
 
 <hr>
 
