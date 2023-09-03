@@ -31,12 +31,9 @@
 
 <!-- Strong Lines -->
 - ### **🗣️ Coding Talks....💐**
-```Javascript
-   🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
-```
-```Javascript
- 🌼 AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO 🌼
-```
+     ###  🌸 **`TALK IS JUST CHEAP, SHOW ME THE CODE`** 🌸
+     ###  🌼 **`AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO`** 🌼
+
 
 <!-- Snake Eating My Contributions -->
 <div align="center">
@@ -60,7 +57,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- Technical Skills -->
-<h3 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px> Technical Stack <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px> </h3>
+<h3 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px> Tech Stack <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px> </h3>
 
 <table align="center">
 <tr>
@@ -170,6 +167,4 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- My Own Quote -->
-```Javascript 
-🌼 🌺 🌸 Everything and anything is a bit, when you put your consciousness in it 🌼 🌺 🌸
-```
+### 🌼 🌺 🌸 **`Everything and anything is a bit, when you put your consciousness in it`** 🌼 🌺 🌸
