@@ -19,8 +19,8 @@
 </p>
 
 <!-- Page Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20views&color=5108bf&style=flat" alt="Suraj-Encoding" width=180px
-   height=25px /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-Encoding&label=Profile%20Views&color=5108bf&style=flat" alt="Suraj-Encoding" width=180px
+   height=28px /> </p>
 
 <hr>
 
