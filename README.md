@@ -1,11 +1,16 @@
 <!-- Suraj-Encoding Readme File -->
 
-<!-- About Me -->
-[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=5000&pause=500&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://git.io/typing-svg)
+<!-- Me -->
+[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=300&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://github.com/Suraj-Encoding)
+---
+
+<!-- Master Head -->
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://surajdalvi.me)
 <hr>
 
-[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Full+Stack+Web+Dev+🕸️)](https://git.io/typing-svg)
-<hr>
+<!-- About Me -->
+[!["About Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=c21998&size=25&duration=4000&pause=400&center=true&vCenter=true&width=800&lines=🟣+Third+Year+Student+🟣;😇+PCCOE+Pune+Campus+😇;🪀+CSE+Student+🪀;🔵+Coding+Enthusiast+🔵;🟢+Startup+Enthusiast+🟢;🕸️+Full+Stack+Web+Dev+🕸️)](https://github.com/Suraj-Encoding)
+---
 
 <!-- Coding GIF -->
 <p align="left">
@@ -42,7 +47,7 @@
 <hr>
 
 <!-- My Social Media -->
-<h3 align="center">🌸 Connect with me 🌸 </h3>
+<h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Suraj Dalvi" height="30" width="30" /></a>
 <a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="30" width="30" /></a>
@@ -54,11 +59,11 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- Technical Skills -->
-<h3 align="center"> ⚙️ Technical Stack ⚙️ </h3>
+<h3 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px> Technical Stack <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px> </h3>
 <table align="center">
 <tr>
 <td>Language</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </a> 
 </td>
@@ -66,7 +71,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>Development</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
   </a>
 </td>
@@ -74,7 +79,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>CSS Framework</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
   </a>
  </td>
@@ -82,7 +87,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>Frontend Framework</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=react,angular" />
   </a>
  </td>
@@ -90,7 +95,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>Backend Framework</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
    </a>
 </td>
@@ -98,7 +103,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>Database</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
  </td>
@@ -106,7 +111,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>Hosting</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,aws" />
   </a>
 </td>
@@ -114,7 +119,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 
 <tr>
 <td>Tools</td>
-<td> <a>
+<td> <a href="https://github.com/Suraj-Encoding" >
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,replit,stackoverflow" />
   </a>
 </td>
@@ -124,7 +129,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- My Github Stats -->
-### 🕸️ **GitHub Stats** 🕸️
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
@@ -132,7 +137,8 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <hr>
 
 <!-- My Top Repos -->
-### 🕸️ **Top Repositories** 🕸️
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Top Repositories </b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">
+
 <a href="https://github.com/Suraj-Encoding/Suraj-Encoding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Encoding&theme=buefy" />
 </a>
