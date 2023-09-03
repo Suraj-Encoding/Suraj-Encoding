@@ -54,7 +54,7 @@
 <a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="30" width="30" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center"
 src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" width="30" /></a>
-<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="40" width="30" /></a>
+<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="33" width="35" /></a>
 </p>
 
 <hr>
