@@ -19,13 +19,13 @@
 <hr>
 
 <!-- Important Links -->
-- ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
+- ### **🕸️ `My Personal Portfolio Website` :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
 
-- ### **📚 All My Repos :** 🌸 [ MyRepo ](https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
+- ### **📚 `All My Repos` :** 🌸 [ MyRepo ](https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
 
 
 <!-- Strong Lines -->
-- ### **🗣️ Coding Talks....💐**
+- ### **🗣️ `Coding Talks`....💐**
 ```Javascript
    🌸 TALK IS JUST CHEAP, SHOW ME THE CODE 🌸
 ```
@@ -44,11 +44,11 @@
 <!-- My Social Media -->
 <h3 align="center">🌸 Connect with me 🌸 </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Suraj Dalvi" height="30" width="30" /></a>
-<a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png"  alt="Suraj-Encoding" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Suraj Dalvi" height="30" width="30" /></a>
+<a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="30" width="30" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center"
-src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Suraj-Encoding" height="30" width="30" /></a>
-<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Suraj-Encoding" height="30" width="40" /></a>
+src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" width="30" /></a>
+<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="40" width="30" /></a>
 </p>
 
 <hr>
@@ -124,7 +124,9 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 <hr>
 
 <!-- My Github Stats -->
-### 🕸️ **GitHub Stats** 🕸️
+### 🕸️ **`GitHub Stats`** 🕸️
+<hr>
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
@@ -132,7 +134,9 @@ src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-in
 <hr>
 
 <!-- My Top Repos -->
-### 🕸️ **Top Repositories** 🕸️
+### 🕸️ **`Top Repositories`** 🕸️
+<hr>
+
 <a href="https://github.com/Suraj-Encoding/Suraj-Encoding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=Suraj-Encoding&theme=buefy" />
 </a>
