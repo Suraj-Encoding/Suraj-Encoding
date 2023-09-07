@@ -1,7 +1,7 @@
 <!-- Suraj-Encoding Readme File -->
 
 <!-- Me -->
-[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=200&center=true&vCenter=true&width=900&lines=🌼+Hello!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://github.com/Suraj-Encoding)
+[!["Suraj-Encoding"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=8706d1&size=25&duration=4000&pause=200&center=true&vCenter=true&width=900&lines=🌼+Hello+!+I'm+Suraj+Dalvi+🌼;🌸+Welcome+To+The+World+Of+🌸;🪀+Suraj-Encoding+🪀)](https://github.com/Suraj-Encoding)
 ---
 
 <!-- Master Head -->
