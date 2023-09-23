@@ -55,7 +55,7 @@
 <a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="40" width="50" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center"
 src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="40" width="50" /></a>
-<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="40" width="50" /></a>
+<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="45" width="50" /></a>
 </p>
 
 <hr>
@@ -145,6 +145,8 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="40" 
 <hr>
 
 <!-- My Top Repos -->
+<div align='center'>
+   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Top Repositories </b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <a href="https://github.com/Suraj-Encoding/Suraj-Encoding">
@@ -172,6 +174,8 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="40" 
 <a href="https://github.com/Suraj-Encoding/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj-Encoding&repo=OOPS&theme=buefy" />
 </a>
+
+</div>
 
 <hr>
 
