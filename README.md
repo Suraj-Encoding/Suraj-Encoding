@@ -51,11 +51,11 @@
 <h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=60px> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=60px> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Suraj Dalvi" height="30" width="30" /></a>
-<a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Suraj Dalvi" height="30" width="40" /></a>
+<a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center"
-src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" width="30" /></a>
-<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="33" width="35" /></a>
+src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" width="40" /></a>
+<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="33" width="40" /></a>
 </p>
 
 <hr>
