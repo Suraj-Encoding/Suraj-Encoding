@@ -67,7 +67,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Language</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height=50px width=180px />
 </a> 
 </td>
 </tr>
@@ -75,7 +75,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript"  height=50px width=180px />
   </a>
 </td>
 </tr>
@@ -83,7 +83,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>CSS Framework</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height=50px width=95px />
   </a>
  </td>
 </tr>
@@ -91,7 +91,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Frontend Framework</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=react,angular" />
+    <img src="https://skillicons.dev/icons?i=react,angular" height=50px width=100px />
   </a>
  </td>
 </tr>
@@ -99,7 +99,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Backend Framework</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height=50px width=155px />
    </a>
 </td>
 </tr>
@@ -107,7 +107,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Database</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb"  height=50px width=100px />
   </a>
  </td>
 </tr>
@@ -115,7 +115,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,aws" />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,aws"  height=50px width=250px />
   </a>
 </td>
 </tr>
@@ -123,7 +123,7 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <tr>
 <td>Tools</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,replit,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,replit,stackoverflow"  height=50px width=400px />
   </a>
 </td>
 </tr>
