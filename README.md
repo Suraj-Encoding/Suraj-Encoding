@@ -134,9 +134,13 @@ src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="30" 
 <!-- My Github Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false "Suraj-Encoding Github Stats")<br/>
-![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=midnight-purple&hide_border=false "Suraj-Encoding Github Streak")<br/>
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Encoding&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact "Suraj-Encoding Top Languages")
+<div align='center'>
+   
+![My Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Suraj-Encoding&show_icons=true&include_all_commits=true&theme=radical "Suraj-Encoding Github Stats")<br/>
+![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Encoding&theme=cobalt "Suraj-Encoding Github Streak")<br/>
+![My Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Suraj-Encoding&layout=compact&theme=radical "Suraj-Encoding Top Languages")
+
+</div>
 
 <hr>
 
