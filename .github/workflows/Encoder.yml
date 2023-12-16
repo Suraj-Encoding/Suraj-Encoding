@@ -1,6 +1,7 @@
-name: Generate Snake
+# Snake Eating Github Contributions 
+name: Github Snake
 on:
-  schedule: # execute every 24 hours
+  schedule: # Execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
 
@@ -9,19 +10,31 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+     # Snake Animation
+      - uses: actions/checkout@v2
+     # Generates the snake  
       - uses: Platane/snk@master
         with:
           github_user_name: Suraj-Encoding
           outputs: |
-            dist/github-snake-light.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            root/github-snake-light.svg
+            root/github-snake-dark.svg?palette=github-dark
+
+      # Show git status
+      - run: git status
+
+      # Push the changes - master branch
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output
-          build_dir: dist
+          # snake branch
+          target_branch: snake
+          build_dir: root
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          
