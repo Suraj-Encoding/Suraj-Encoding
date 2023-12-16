@@ -16,9 +16,8 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: Suraj-Encoding
-          outputs: |
-            dist/github-snake-light.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          # svg_out_path: dist/github-snake-light.svg
+          svg_out_path: dist/github-snake-dark.svg?palette=github-dark
 
       # Show git status
       - run: git status
