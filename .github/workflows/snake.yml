@@ -1,4 +1,4 @@
-name: Suraj
+name: Encoding
 on: [push]
 jobs:
   test:
