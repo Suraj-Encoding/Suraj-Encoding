@@ -10,13 +10,12 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-     # Snake animation
-      - uses: actions/checkout@v2
      # Generates the snake  
       - uses: Platane/snk@master
         with:
           github_user_name: Suraj-Encoding
-          output: |
+          outputs: |
+            dist/github-snake-light.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
