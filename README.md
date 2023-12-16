@@ -41,8 +41,8 @@
 
 <!-- Snake Eating My Contributions -->
 <div align="center">
-  <img src="https://github.com/Suraj-Encoding/Suraj-Encoding/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Github Snake"/>
-   <img src="https://github.com/Suraj-Encoding/Suraj-Encoding/blob/output/github-snake.svg#gh-light-mode-only" alt="Github Snake"/>
+  <img src="https://github.com/Suraj-Encoding/Suraj-Encoding/blob/master/Snake/github-snake-dark.svg#gh-dark-mode-only" alt="Github Snake"/>
+   <img src="https://github.com/Suraj-Encoding/Suraj-Encoding/blob/master/Snake/github-snake-light.svg#gh-light-mode-only" alt="Github Snake"/>
 </div>
 
 <hr>
