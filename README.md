@@ -5,7 +5,7 @@
 ---
 
 <!-- Master Head -->
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://surajdalvi.me)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.surajdalvi.tech)
 <hr>
 
 <!-- About Me -->
@@ -25,7 +25,9 @@
 <hr>
 
 <!-- Important Links -->
-- ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://surajdalvi.me "Visit My Portfolio") 🌼
+- ### **🕸️ My Personal Portfolio Website :** 🌸 [Portfolio](https://www.surajdalvi.tech "Visit My Portfolio") 🌼
+
+- ### **🕸️ My Personal Landing Page :** 🌸 [Page](https://page.surajdalvi.tech "Visit My Page") 🌼
 
 - ### **📚 All My Repos :** 🌸 [ MyRepo ](https://github.com/Suraj-Encoding?tab=repositories "My Repos") 🌼
 
@@ -51,11 +53,11 @@
 <h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=60px> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=60px> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suraj-dalvi-929644247/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Suraj Dalvi" height="40" width="45" /></a>
-<a href="https://twitter.com/dalvisuraj116" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Suraj-Encoding" height="40" width="45" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center"
-src="https://skillicons.dev/icons?i=instagram" alt="Suraj-Encoding" height="40" width="45" /></a>
-<a href="https://github.com/Suraj-Encoding" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="45" width="45" /></a>
+<a href="https://dev.surajdalvi.tech/Github" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="45" width="45" /></a>
+<a href="https://dev.surajdalvi.tech/linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Encoding" height="40" width="45" /></a>
+<a href="https://dev.surajdalvi.tech/twitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=X" alt="Condabash" height="40" width="45" /></a>
+<a href="https://dev.surajdalvi.tech/discord" target="blank"><img align="center"
+src="https://skillicons.dev/icons?i=discord" alt="Condabash" height="40" width="45" /></a>
 </p>
 
 <hr>
