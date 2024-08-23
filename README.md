@@ -55,7 +55,7 @@
 <p align="center">
 <a href="https://dev.surajdalvi.tech/Github" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Suraj-Encoding" height="45" width="45" /></a>
 <a href="https://dev.surajdalvi.tech/linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Encoding" height="40" width="45" /></a>
-<a href="https://dev.surajdalvi.tech/twitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=X" alt="Condabash" height="40" width="45" /></a>
+<a href="https://dev.surajdalvi.tech/twitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Condabash" height="40" width="45" /></a>
 <a href="https://dev.surajdalvi.tech/discord" target="blank"><img align="center"
 src="https://skillicons.dev/icons?i=discord" alt="Condabash" height="40" width="45" /></a>
 </p>
